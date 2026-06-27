@@ -27,8 +27,11 @@ The project is intentionally scoped as a technical sample rather than a complete
 ## Tech I work with
 
 **Frontend:** React, TypeScript, JavaScript, Qwik, Tailwind CSS
+
 **Backend:** Node.js, Express, Elysia, REST APIs, SQL
+
 **Databases:** Postgres, MSSQL, MySQL, Drizzle, Prisma, TypeORM
+
 **Tooling:** Git, GitHub Actions, Docker, CI/CD, Azure, Linux
 
 ## Background
